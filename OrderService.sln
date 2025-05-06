@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService.csproj", "{6002AFF9-E631-43FC-8093-F02556647B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderServiceTests", "..\OrderServiceTests\OrderServiceTests.csproj", "{8D960E15-BF1C-C805-5FE9-C7386EA5FAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6002AFF9-E631-43FC-8093-F02556647B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6002AFF9-E631-43FC-8093-F02556647B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6002AFF9-E631-43FC-8093-F02556647B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6002AFF9-E631-43FC-8093-F02556647B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D960E15-BF1C-C805-5FE9-C7386EA5FAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D960E15-BF1C-C805-5FE9-C7386EA5FAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D960E15-BF1C-C805-5FE9-C7386EA5FAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D960E15-BF1C-C805-5FE9-C7386EA5FAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1749C55-BD63-4119-9FEB-5721C98E5963}
+	EndGlobalSection
+EndGlobal
